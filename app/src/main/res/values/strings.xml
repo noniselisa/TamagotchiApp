@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">TamagotchiApp</string>
+
+    <string-array name="colors">
+        <item>t-shirt lightblue</item>
+        <item>t-shirt boo</item>
+        <item>t-shirt white</item>
+        <item>t-shirt violet</item>
+        <item>t-shirt kittens</item>
+        <item>t-shirt sootsprite</item>
+        <item>t-shirt books</item>
+        <item>blouse</item>
+        <item>default</item>
+    </string-array>
+
+    <string-array name="food">
+        <item>apple</item>
+        <item>avocado</item>
+        <item>bento</item>
+        <item>blueberry</item>
+        <item>chocolate</item>
+        <item>fries</item>
+        <item>greek salad</item>
+        <item>hamburger</item>
+        <item>ice cream</item>
+        <item>donut</item>
+        <item>pretzel</item>
+        <item>rasperry</item>
+        <item>rice bowl</item>
+        <item>strawberry</item>
+        <item>taco</item>
+    </string-array>
+
+</resources>
